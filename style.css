@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+ }
+
+body {
+    display: flex;
+    font-family: Raleway;
+    font-size: 12px;
+    width: 100%;
+    background-color: #dfdfdf;
+    text-align: center;
+    height:max-content;
+}
+
+.wrapper {
+    margin: 0 10% 0 10%;
+    padding: 3em 0 100em 0;
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    justify-content: center;
+    justify-self: center;
+}
+
+h2 {
+    color: #1f1f1f;
+}
+
+hr {
+    border-color: #1f1f1f;
+    margin: 2em 4em 2em 4em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+a {
+    color: #6b4d4d;
+    font-size: 1em;
+}
